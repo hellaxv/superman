@@ -141,6 +141,12 @@
   <ItemGroup>
     <ClCompile Include="stella.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Pictures\Screenshots\Снимок экрана (1).png" />
+    <Image Include="..\..\..\..\Pictures\Screenshots\Снимок экрана (2).png" />
+    <Image Include="..\..\..\..\Pictures\Screenshots\Снимок экрана (3).png" />
+    <Image Include="..\..\..\..\Pictures\Screenshots\Снимок экрана (4).png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

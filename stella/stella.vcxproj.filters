@@ -13,10 +13,27 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="screenshots">
+      <UniqueIdentifier>{d5c31252-9a49-41c4-9786-acac20adf005}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stella.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Pictures\Screenshots\Снимок экрана (1).png">
+      <Filter>screenshots</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Pictures\Screenshots\Снимок экрана (2).png">
+      <Filter>screenshots</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Pictures\Screenshots\Снимок экрана (3).png">
+      <Filter>screenshots</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Pictures\Screenshots\Снимок экрана (4).png">
+      <Filter>screenshots</Filter>
+    </Image>
   </ItemGroup>
 </Project>
